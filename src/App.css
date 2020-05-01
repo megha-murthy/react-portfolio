@@ -1,0 +1,58 @@
+body {
+
+  background-image: url("/images/geometric-leaves.png");  
+
+}
+
+.profile{
+  width: 200px;
+  height: 250px;
+  float: left;
+  margin-right:20px; 
+  border-radius: 3px;
+  /* margin:20px; */
+}
+
+.card{
+  box-shadow: 12px 12px 12px rgb(128, 127, 127);
+  margin-top:20px;
+}
+
+.right{
+  margin-right: 90px;
+}
+
+.right-less{
+  margin-right: 30px;
+}
+
+.links{
+  margin-left: 45%;
+}
+
+.dur-one,.dur-two, .dur-three{
+  margin-left:50px;
+}
+
+.portfolio-one ,.portfolio-two, .portfolio-three, .portfolio-four,.portfolio-five,.portfolio-six{
+  width:15rem;
+}
+
+
+.img-two,.img-three{
+  width:200px;
+  height:180px;
+}
+.img-six{
+  height:140px;
+}
+
+.resume{
+  font-size: large;
+  align-content: center;
+}
+
+.applications{
+  margin-top:-70px;
+  
+}
