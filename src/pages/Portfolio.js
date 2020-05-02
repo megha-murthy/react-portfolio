@@ -37,7 +37,7 @@ class Portfolio extends React.Component{
         <Row className="row row-cols-1 row-cols-md-3">
             <Col size="col mb-4">
             <div className="card portfolio-one">
-                        <img src="./images/accenture.jpg" className="card-img-top img-one" alt="..."/>
+                        <img src={require("../images/accenture.jpg")} className="card-img-top img-one" alt="..."/>
                         <div className="card-footer">
                             <small><strong>Accenture</strong></small>
                           </div>
@@ -46,7 +46,7 @@ class Portfolio extends React.Component{
 
             <Col size="col mb-4">
             <div className="card portfolio-two">
-                        <img src="./images/apple.png" className="card-img-top img-two" alt="..."/>
+                        <img src={require("../images/apple.png")} className="card-img-top img-two" alt="..."/>
                         <div className="card-footer">
                             <small ><strong>Apple</strong></small>
                           </div>
@@ -54,7 +54,7 @@ class Portfolio extends React.Component{
             </Col>
             <Col size="col mb-4">
             <div className="card portfolio-three">
-                            <img src="./images/TechM.jpg" className="card-img-top img-three" alt="..."/>
+                            <img src={require("../images/TechM.jpg")} className="card-img-top img-three" alt="..."/>
                             <div className="card-footer">
                                 <small ><strong>Tech Mahindra</strong></small>
                               </div>
@@ -62,7 +62,7 @@ class Portfolio extends React.Component{
             </Col>
             <Col size="col mb-4">
                         <div className="card portfolio-four">
-                            <img src="./images/Rendezvous.png" className="card-img-top img-four" alt="..."/>
+                            <img src={require("../images/Rendezvous.png")} className="card-img-top img-four" alt="..."/>
                             <div className="card-footer">
                                 <small ><strong>Rendezvous</strong></small>
                               </div>
@@ -70,7 +70,7 @@ class Portfolio extends React.Component{
                   </Col>
                   <Col size="col mb-4">
                     <div className="card portfolio-five" >
-                        <img src="./images/Crime Radar.png" className="card-img-top img-five" alt="..."/>
+                        <img src={require("../images/Crime Radar.png")} className="card-img-top img-five" alt="..."/>
                         <div className="card-footer">
                             <small><strong>Crime Radar</strong></small>
                           </div>
@@ -79,7 +79,7 @@ class Portfolio extends React.Component{
 
                 <Col size="col mb-4">
                     <div className="card portfolio-six" >
-                        <img src="./images/Interior Designing.jpg" className="card-img-top img-six" alt="..."/>
+                        <img src={require("../images/Interior Designing.jpg")} className="card-img-top img-six" alt="..."/>
                         <div className="card-footer">
                             <small ><strong>Interior Designing</strong></small>
                         </div>

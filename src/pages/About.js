@@ -4,7 +4,7 @@ import Col from "../components/Col";
 import Projects from '../components/Projects'
 // import Container from "../components/Container";
 import '../App.css';
-import projects from '../projects.json'
+import projects from '../projects.json';
 // import {Link} from 'react-router-dom';
 
 
@@ -23,7 +23,7 @@ class About extends React.Component{
             {/* <Container> */}
                 <Row>
                     <Col size="md-12">
-                    <img src="/images/my-passport-photo.jpg" alt="profile" className="profile"/>
+                    <img src={require("../images/my-passport-photo.jpg")} alt="profile" className="profile"/>
                     <br/>
                     <br/>
                     
