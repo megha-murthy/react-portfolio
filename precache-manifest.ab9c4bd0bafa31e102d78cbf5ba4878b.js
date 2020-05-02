@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fc5e6e6beda5d5ba43f17fa1a8f31535",
+    "revision": "94a323d42d6724654daf8befe7201623",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "9dd66d0bd59b070fe96c",
-    "url": "/react-portfolio/static/css/main.ec4325aa.chunk.css"
+    "revision": "fd0b0214d730231fc28c",
+    "url": "/react-portfolio/static/css/main.2e6b60a1.chunk.css"
   },
   {
     "revision": "ea883619d5e68786c14a",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/js/2.1ef8f375.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9dd66d0bd59b070fe96c",
+    "revision": "fd0b0214d730231fc28c",
     "url": "/react-portfolio/static/js/main.856dd0c8.chunk.js"
   },
   {
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dc001cdbec45a79177e35e103729b54f",
     "url": "/react-portfolio/static/media/Rendezvous.dc001cdb.png"
+  },
+  {
+    "revision": "7afd00289cd8d904275b7ac044faa933",
+    "url": "/react-portfolio/static/media/geometric-leaves.7afd0028.png"
   },
   {
     "revision": "278dc044e98f183627da7c6795f09adf",
