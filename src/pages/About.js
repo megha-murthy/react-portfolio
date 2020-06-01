@@ -40,7 +40,7 @@ class About extends React.Component{
 
                     <h6><strong>TECHNICAL SKILLS :</strong></h6> 
                     <ul className="about right-less">
-                      <p>HTML5, CSS3, Javascript, Bootstrap, Media Queries, GIT, GitHub, APIs, JSON, Node.js, AJAX, Functional, Regression Testing, Mobile Testing, Selenium Webdriver, Python.</p>
+                      <p>HTML5, CSS3, Bootstrap,Javascript, React, APIs, JSON,AJAX, Node.js,Express, MongoDB, GIT, GitHub, Functional Testing, Regression Testing, Mobile Testing, Selenium Webdriver, Python.</p>
                     </ul>
 
                     <h6><strong>PROJECTS:</strong></h6>
@@ -49,13 +49,14 @@ class About extends React.Component{
                         <Projects 
                             name={project.name}
                             description={project.description}
+                            technologies={project.technologies}
                             Github={project.Github}
                             Heroku={project.Heroku}
                         />
                         ))}
 
 
-                    <h6><strong>EXPERIENCE: </strong></h6>
+                    {/* <h6><strong>EXPERIENCE: </strong></h6>
                     <div className="exp-one right-less">
                         <strong>Mobile Test Engineer </strong> <span className="dur-one">12/2019 – Present</span>
                         <p><strong>Tech Mahindra Americas Inc.; Redmond, WA</strong></p>
@@ -80,7 +81,7 @@ class About extends React.Component{
                     </ul>
 
 
-                    </div>
+                    </div> */}
                     </Col>
                 </Row>
             {/* </Container> */}

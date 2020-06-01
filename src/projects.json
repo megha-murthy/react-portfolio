@@ -1,33 +1,46 @@
 [
     {
+        "name":"News Flash-",
+        "description":"This application is aimed at providing the user with the latest news from multiple sources, ability to save the articles of interest to read at a later time, have breaking news delivered via email every 12 hrs, and to provide 10 different inspirational quotes everyday to keep you motivated and inspired. ",
+        "technologies":"React, CSS Grid, SASS, Passport, Express, Sequelize/MySQL,Node.js, NodeMailer",
+        "Heroku":"https://newsflash-news-app.herokuapp.com/"
+        
+    },
+    {
+        "name":"Google Books Search-",
+        "description":"This application allows the user to query Google Books API and display/save books based on user searches "  ,
+        "technologies":"HTML,CSS, React JS, Express,Mongo DB, Mongoose, Node.js, Google Books API",
+        "Heroku":"https://protected-badlands-58271.herokuapp.com/"
+    },
+    {
         "name":"Coding Quiz-" ,
         "description":"This application is a timer-based quiz application that stores high scores client-side",
+        "technologies":"HTML, CSS, JS, LocalStorage",
         "Github":"https://megha-murthy.github.io/coding-quiz/"
  
     },
     {
         "name":"Day Planner-",
         "description":"This is a calendar application that allows the user to save events for each hour of the day." ,
+        "technologies":"HTML 5,CSS 3, jQuery 3.4.1, Local Storage",
         "Github":"https://megha-murthy.github.io/day-planner/"
     },
     {
         "name":"Weather Dashboard-",
         "description":"This application has the search functionality to find current weather conditions and forecast the weather outlook for 5-days for multiple cities." ,
+        "technologies":"HTML 5,CSS 3, jQuery 3.4.1,Open Weather API",
         "Github":"https://megha-murthy.github.io/weather-dashboard/"
     },
     {
         "name":"Note Taker-" ,
         "description":"This application is used to write,save and delete user notes. This app uses an express backend to save and retrieve note data from a JSON file." ,
+        "technologies":"HTML ,CSS, Node.js, Express JS",
         "Heroku":"https://sheltered-tundra-84827.herokuapp.com/"
     },
     {
-        "name":"Crime Radar-",
-        "description":"This application allows users to input the name of any place or city in the United States, along with a search radius in miles, and will return up to 50 real-time crime reports within the search radius provided around the provided city or place.",
-        "Github":"https://megha-murthy.github.io/Project-1/"
-    },
-    {
         "name":"Rendezvous-",
-        "description":"This application allows users to someone can find like minded people with common interests"  ,
+        "description":"This application allows users to someone can find like minded people with common interests" ,
+        "technologies":"HTML, CSS,JS,Node.js, Express, Express-session, Socket.io, Materialize, Bootstrap, Sequelize/MySQL,bcryptjs, Passport, Google Maps API.",
         "Heroku":"https://ancient-cliffs-00912.herokuapp.com/"
     }
 ]

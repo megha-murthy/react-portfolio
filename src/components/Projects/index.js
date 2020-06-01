@@ -5,6 +5,7 @@ function Projects(props){
         return(
             <ul>
                 <li><strong>{props.name}</strong>{props.description}</li>
+                    <p>Technologies: {props.technologies}</p>
                     <p>Github: <a href={props.Github}>{props.Github}</a></p>
             </ul>
             )
@@ -13,7 +14,8 @@ function Projects(props){
         return(
             <ul>
                 <li><strong>{props.name}</strong>{props.description}</li>
-                    <p>Heroku: <a href={props.Heroku}>{props.Heroku}</a></p>
+                <p>Technologies: {props.technologies}</p>
+                <p>Heroku: <a href={props.Heroku}>{props.Heroku}</a></p>
         
             </ul>
             )

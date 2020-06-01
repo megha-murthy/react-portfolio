@@ -34,18 +34,18 @@ body {
   margin-left:50px;
 }
 
-.portfolio-one ,.portfolio-two, .portfolio-three, .portfolio-four,.portfolio-five,.portfolio-six{
+.portfolio-one ,.portfolio-two, .portfolio-three, .portfolio-four,.portfolio-five,.portfolio-six,.portfolio-seven,.portfolio-eight,.portfolio-nine,.portfolio-ten,.portfolio-eleven{
   width:15rem;
 }
 
 
-.img-two,.img-three{
+.img-two,.img-three,.img-four,.img-five,.img-six,.img-seven,.img-eight,.img-nine,.img-ten,.img-eleven{
   width:200px;
   height:180px;
 }
-.img-six{
+/* .img-six{
   height:140px;
-}
+} */
 
 .resume{
   font-size: large;
