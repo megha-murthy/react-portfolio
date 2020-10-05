@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73ba7125745a66335ada3e9e9426d34c",
+    "revision": "ad9ba7ee67585621e6f8d6ed5790e0aa",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "89ddae6679def033064a",
+    "revision": "f21fb8e95e2433906f1b",
     "url": "/react-portfolio/static/css/main.f3204a6b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/js/2.1ef8f375.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "89ddae6679def033064a",
-    "url": "/react-portfolio/static/js/main.d293145a.chunk.js"
+    "revision": "f21fb8e95e2433906f1b",
+    "url": "/react-portfolio/static/js/main.8fc27ee8.chunk.js"
   },
   {
     "revision": "10b51d5b5a56c13e78c7",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/media/Interior Designing.285687ba.jpg"
   },
   {
-    "revision": "4024ce6ce3365591bfb3def0905e353e",
-    "url": "/react-portfolio/static/media/NewsFlash.4024ce6c.png"
+    "revision": "edc912cbaadf535f493f53da43026f24",
+    "url": "/react-portfolio/static/media/NewsFlash.edc912cb.png"
   },
   {
     "revision": "35a301f348cc703813fff63376209dff",
