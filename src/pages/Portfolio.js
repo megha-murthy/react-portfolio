@@ -23,7 +23,7 @@ class Portfolio extends React.Component{
           <div className="row" id="contact">
             <div className="col-sm-12">
                 <div className="info">
-                <a className="nav-link resume" href="https://docs.google.com/document/d/1Fpuy-CaWzRVWclNiTW2A8hYmkcYZVrF6AqMvQOk9q54/edit?usp=sharing" ><i className="far fa-file-alt"></i> Resume</a>
+                <a className="nav-link resume" href="https://docs.google.com/document/d/1Fpuy-CaWzRVWclNiTW2A8hYmkcYZVrF6AqMvQOk9q54/export?format=pdf" ><i className="far fa-file-alt"></i> Resume</a>
 
               </div>
         </div>

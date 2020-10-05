@@ -1,27 +1,32 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.2e6b60a1.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.856dd0c8.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.856dd0c8.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.f3204a6b.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.8fc27ee8.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.8fc27ee8.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.fdede8d3.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.fdede8d3.js.map",
     "static/js/2.1ef8f375.chunk.js": "/react-portfolio/static/js/2.1ef8f375.chunk.js",
     "static/js/2.1ef8f375.chunk.js.map": "/react-portfolio/static/js/2.1ef8f375.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.ab9c4bd0bafa31e102d78cbf5ba4878b.js": "/react-portfolio/precache-manifest.ab9c4bd0bafa31e102d78cbf5ba4878b.js",
+    "precache-manifest.9d64efb15ae4615fa4b8c020a59f3b8f.js": "/react-portfolio/precache-manifest.9d64efb15ae4615fa4b8c020a59f3b8f.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
-    "static/css/main.2e6b60a1.chunk.css.map": "/react-portfolio/static/css/main.2e6b60a1.chunk.css.map",
+    "static/css/main.f3204a6b.chunk.css.map": "/react-portfolio/static/css/main.f3204a6b.chunk.css.map",
     "static/js/2.1ef8f375.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.1ef8f375.chunk.js.LICENSE.txt",
-    "static/media/Crime Radar.png": "/react-portfolio/static/media/Crime Radar.8bdd2126.png",
+    "static/media/CodingQuiz.png": "/react-portfolio/static/media/CodingQuiz.0711b6f1.png",
+    "static/media/DayPlanner.png": "/react-portfolio/static/media/DayPlanner.c71fc492.png",
+    "static/media/GoogleBooks.png": "/react-portfolio/static/media/GoogleBooks.744e53de.png",
     "static/media/Interior Designing.jpg": "/react-portfolio/static/media/Interior Designing.285687ba.jpg",
+    "static/media/NewsFlash.png": "/react-portfolio/static/media/NewsFlash.edc912cb.png",
+    "static/media/NoteTaker.png": "/react-portfolio/static/media/NoteTaker.35a301f3.png",
     "static/media/Rendezvous.png": "/react-portfolio/static/media/Rendezvous.dc001cdb.png",
+    "static/media/WeatherForecast.png": "/react-portfolio/static/media/WeatherForecast.2ca49464.png",
     "static/media/App.css": "/react-portfolio/static/media/geometric-leaves.7afd0028.png",
     "static/media/my-passport-photo.jpg": "/react-portfolio/static/media/my-passport-photo.278dc044.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.fdede8d3.js",
     "static/js/2.1ef8f375.chunk.js",
-    "static/css/main.2e6b60a1.chunk.css",
-    "static/js/main.856dd0c8.chunk.js"
+    "static/css/main.f3204a6b.chunk.css",
+    "static/js/main.8fc27ee8.chunk.js"
   ]
 }
