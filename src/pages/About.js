@@ -1,7 +1,7 @@
 import React from 'react';
 import Row from '../components/Row';
 import Col from "../components/Col";
-import Projects from '../components/Projects'
+// import Projects from '../components/Projects'
 // import Container from "../components/Container";
 import '../App.css';
 import projects from '../projects.json';
@@ -35,17 +35,17 @@ class About extends React.Component{
 
                     <br/>
                  
-                    <br/>
-                    <br/>
+                    {/* <br/>
+                    <br/> */}
 
                     <h6><strong>TECHNICAL SKILLS :</strong></h6> 
                     <ul className="about right-less">
                       <p>HTML5, CSS3, Bootstrap,Javascript, React, APIs, JSON,AJAX, Node.js,Express, MongoDB, GIT, GitHub, Functional Testing, Regression Testing, Mobile Testing, Selenium Webdriver, Python.</p>
                     </ul>
 
-                    <h6><strong>PROJECTS:</strong></h6>
+                    {/* <h6><strong>PROJECTS:</strong></h6> */}
 
-                    {this.state.projects.map(project=>(
+                    {/* {this.state.projects.map(project=>(
                         <Projects 
                             name={project.name}
                             description={project.description}
@@ -53,7 +53,7 @@ class About extends React.Component{
                             Github={project.Github}
                             Heroku={project.Heroku}
                         />
-                        ))}
+                        ))} */}
 
 
                     {/* <h6><strong>EXPERIENCE: </strong></h6>

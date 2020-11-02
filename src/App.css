@@ -5,8 +5,8 @@ body {
 }
 
 .profile{
-  width: 200px;
-  height: 250px;
+  width: 280px;
+  height: 350px;
   float: left;
   margin-right:20px; 
   border-radius: 3px;
@@ -36,11 +36,12 @@ body {
 
 .portfolio-one ,.portfolio-two, .portfolio-three, .portfolio-four,.portfolio-five,.portfolio-six,.portfolio-seven,.portfolio-eight,.portfolio-nine,.portfolio-ten,.portfolio-eleven{
   width:15rem;
+  height:30rem;
 }
 
 
 .img-two,.img-three,.img-four,.img-five,.img-six,.img-seven,.img-eight,.img-nine,.img-ten,.img-eleven{
-  width:200px;
+  width:500px;
   height:180px;
 }
 /* .img-six{
@@ -55,4 +56,9 @@ body {
 .applications{
   margin-top:-70px;
   
+}
+
+.card-img-top{
+  width:239px;
+  height:200px;
 }
