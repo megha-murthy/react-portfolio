@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a2b3e1017559b651baf0379dbef70785",
+    "revision": "1837d757dd6cea55d8516dbc66a443ba",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "9af0bbf842a8d84142ce",
-    "url": "/react-portfolio/static/css/main.f3204a6b.chunk.css"
+    "revision": "df2435fcce297fe77f93",
+    "url": "/react-portfolio/static/css/main.b729b8e0.chunk.css"
   },
   {
     "revision": "ea883619d5e68786c14a",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/js/2.1ef8f375.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9af0bbf842a8d84142ce",
-    "url": "/react-portfolio/static/js/main.bff2e7a1.chunk.js"
+    "revision": "df2435fcce297fe77f93",
+    "url": "/react-portfolio/static/js/main.a48c4663.chunk.js"
   },
   {
     "revision": "10b51d5b5a56c13e78c7",
@@ -34,10 +34,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "744e53de07533faecef264bbb54ef96d",
     "url": "/react-portfolio/static/media/GoogleBooks.744e53de.png"
-  },
-  {
-    "revision": "285687bafc759e4638ae06d039365d72",
-    "url": "/react-portfolio/static/media/Interior Designing.285687ba.jpg"
   },
   {
     "revision": "edc912cbaadf535f493f53da43026f24",

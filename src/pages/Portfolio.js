@@ -39,49 +39,74 @@ class Portfolio extends React.Component{
 
         <Col size="col mb-4">
             <div className="card portfolio-one">
+                <a target="_blank" href="https://newsflash-news-app.herokuapp.com/">
                         <img src={require("../images/NewsFlash.png")} className="card-img-top img-one" alt="..."/>
+                        </a>
                         <div className="card-footer">
                             <small><strong>News Flash</strong></small>
                             <br/>
                             <br/>
                             <small><p>This application provides the user with the latest news from multiple sources, ability to save the articles of interest to read at a later time, have breaking news delivered via email every 12 hrs, and provides 10 different inspirational quotes everyday</p></small>
                           </div>
+                          <div>
+                          <a className="nav-link active" target="_blank" href="https://github.com/megha-murthy/news-flash-app"><i className="fab fa-github proj1"></i></a>
+                          </div>
             </div>
             </Col>
 
             <Col size="col mb-4">
             <div className="card portfolio-two">
+            <a target="_blank" href="https://protected-badlands-58271.herokuapp.com/ ">
                         <img src={require("../images/GoogleBooks.png")} className="card-img-top img-two" alt="..."/>
+                        </a>
                         <div className="card-footer">
                             <small><strong>Google Book Search</strong></small>
                             <br/>
                             <br/>
                             <small><p>This application allows the user to query Google Books API and display/save books based on user searches</p></small>
                           </div>
+                          <br/>
+                          <div>
+                          <a className="nav-link active" target="_blank" href="https://github.com/megha-murthy/google-books-search"><i className="fab fa-github proj2"></i></a>
+                          </div>
             </div>
             </Col>
 
             <Col size="col mb-4">
             <div className="card portfolio-three">
+            <a target="_blank" href="https://megha-murthy.github.io/coding-quiz/ ">
                         <img src={require("../images/CodingQuiz.png")} className="card-img-top img-three" alt="..."/>
+                        </a>
                         <div className="card-footer">
                             <small><strong>Coding Quiz</strong></small>
                             <br/>
                             <br/>
                             <small><p>This application is a timer-based quiz application that stores high scores client-side</p></small>
                           </div>
+                          <br/>
+                       
+                          <div>
+                          <a className="nav-link active" target="_blank" href="https://github.com/megha-murthy/coding-quiz"><i className="fab fa-github proj3"></i></a>
+                          </div>
             </div>
             </Col>
 
             <Col size="col mb-4">
             <div className="card portfolio-four">
+            <a target="_blank" href="https://megha-murthy.github.io/day-planner/ ">
                         <img src={require("../images/DayPlanner.png")} className="card-img-top img-four" alt="..."/>
+                        </a>
                         <div className="card-footer">
                             <small><strong>Day Planner</strong></small>
                             <br/>
                             <br/>
                             <small><p>This is a calendar application that allows the user to save events for each hour of the day</p></small>
                           </div>
+                          <br/>
+                          <div>
+                          <a className="nav-link active" target="_blank" href="https://github.com/megha-murthy/day-planner"><i className="fab fa-github proj4"></i></a>
+                          </div>
+                          
             </div>
             </Col>
 
@@ -114,23 +139,34 @@ class Portfolio extends React.Component{
             </Col> */}
             <Col size="col mb-4">
                         <div className="card portfolio-seven">
+                        <a target="_blank" href="https://ancient-cliffs-00912.herokuapp.com/">
                             <img src={require("../images/Rendezvous.png")} className="card-img-top img-seven" alt="..."/>
+                            </a>
                             <div className="card-footer">
                                 <small ><strong>Rendezvous</strong></small>
                                 <br/>
                                 <br/>
                                 <small><p>This application allows users to someone can find like minded people with common interests</p></small>
                               </div>
+                              <br/>
+                              <div>
+                          <a className="nav-link active" target="_blank" href="https://github.com/megha-murthy/Rendezvous"><i className="fab fa-github proj5"></i></a>
+                          </div>
                     </div>
                   </Col>
                   <Col size="col mb-4">
                     <div className="card portfolio-five" >
+                    <a target="_blank" href="https://sheltered-tundra-84827.herokuapp.com/">
                         <img src={require("../images/NoteTaker.png")} className="card-img-top img-five" alt="..."/>
+                        </a>
                         <div className="card-footer">
                             <small><strong>Note Taker</strong></small>
                             <br/>
                             <br/>
                             <small><p>This application is used to write,save and delete user notes. This app uses an express backend to save and retrieve note data from a JSON file.</p></small>
+                          </div>
+                          <div>
+                          <a className="nav-link active" target="_blank" href="https://github.com/megha-murthy/note-taker"><i className="fab fa-github proj6"></i></a>
                           </div>
                 </div>
               </Col>
@@ -146,13 +182,20 @@ class Portfolio extends React.Component{
 
             <Col size="col mb-4">
                     <div className="card portfolio-eleven" >
+                    <a target="_blank" href="https://megha-murthy.github.io/weather-dashboard/">
                         <img src={require("../images/WeatherForecast.png")} className="card-img-top img-eleven" alt="..."/>
+                        </a>
                         <div className="card-footer">
                             <small ><strong>Weather Forecast</strong></small>
                             <br/>
                             <br/>
                             <small><p>This application allows users to someone can find like minded people with common interests</p></small>
                         </div>
+                        <br/>
+                      
+                        <div>
+                          <a className="nav-link active" target="_blank" href="https://github.com/megha-murthy/weather-dashboard"><i className="fab fa-github proj7"></i></a>
+                          </div>
                 </div>
             </Col>
 
